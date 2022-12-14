@@ -3,6 +3,10 @@ div.title{background-color: goldenrod;}
 body{
     background-color: rgb(27, 108, 120);
 }
+img{
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
 div.List {
     text-align: center;
     font-family: monospace;
