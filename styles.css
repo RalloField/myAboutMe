@@ -5,6 +5,7 @@ body{
 }
 div.List {
     text-align: center;
+    font-family: monospace;
 }
 ol.MyList{
     display: inline-block;
@@ -15,10 +16,12 @@ table, th, td {
 th {
     background-color:goldenrod;
     color: rgb(27, 108, 120);
+    font-family: monospace;
     }
 td{
     background-color: rgb(27, 108, 120);
     color: goldenrod;
+    font-family: monospace;
 }
 table{
     width: 70%;
