@@ -1,0 +1,29 @@
+body{text-align: center;}
+div.title{background-color: goldenrod;}
+body{
+    background-color: rgb(27, 108, 120);
+}
+div.List {
+    text-align: center;
+}
+ol.MyList{
+    display: inline-block;
+    text-align: left;
+}
+table, th, td {
+    border: 1px solid;}
+table{
+    width: 70%;
+}
+table{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+Table.center{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+p{font-family: monospace;}
+h1{font-family: monospace;}
+h2{font-family: monospace;}
