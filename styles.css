@@ -12,6 +12,14 @@ ol.MyList{
 }
 table, th, td {
     border: 1px solid;}
+th {
+    background-color:goldenrod;
+    color: rgb(27, 108, 120);
+    }
+td{
+    background-color: rgb(27, 108, 120);
+    color: goldenrod;
+}
 table{
     width: 70%;
 }
