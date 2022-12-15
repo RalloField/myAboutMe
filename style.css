@@ -1,0 +1,44 @@
+body{text-align: center;
+font-size: 30px;}
+div.Title{background-color:rgb(224, 112, 14);}
+body{
+background-color: rgb(17, 31, 66);
+color: azure;
+}
+img{
+    border-radius: 50%;
+    filter: grayscale(100%);
+}
+table,th,td {
+border: 1px solid;}
+th{
+    background-color:rgb(224, 112, 14);
+}
+table{
+    width: 70%;}
+table{
+    margin-right: 15%;
+    margin-left: 15%;
+}
+div.List{
+    text-align: center;
+}
+ol.MyList{
+    display: inline-block;
+    text-align: left;
+}
+@media only screen and (max-width:480px){
+    img{
+        width: 80px;
+        height:100px;
+    }
+    .body{font-size: 18px;}}
+@media only screen and (max-width:1024px){
+        img{
+            width: 100px;
+            height:120px;
+        }
+        .body{
+            font-size: 25;
+        }
+}
